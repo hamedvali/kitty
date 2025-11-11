@@ -1,3 +1,5 @@
+![Kitty](images/kitty.png)
+
 # 🐾 Kitty — Smart Marker Assistant for Adobe Premiere Pro (Beta)
 
 **Kitty** helps you create **timeline markers automatically** from your transcript phrases.  
